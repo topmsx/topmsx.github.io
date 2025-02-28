@@ -1,0 +1,6 @@
+{     
+    "name" :  "TopMSX" , 
+    "version" :  "1.0.0" , 
+    "parameter" :  "menu:http://topmsx.github.io/menu.json" , 
+    "welcome" :  "none" 
+}
